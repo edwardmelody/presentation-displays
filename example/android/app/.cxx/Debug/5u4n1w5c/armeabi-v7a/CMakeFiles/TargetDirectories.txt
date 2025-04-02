@@ -1,0 +1,2 @@
+D:/Workspec/javascript/jaidee-pos/presentation-displays/example/android/app/.cxx/Debug/5u4n1w5c/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Workspec/javascript/jaidee-pos/presentation-displays/example/android/app/.cxx/Debug/5u4n1w5c/armeabi-v7a/CMakeFiles/rebuild_cache.dir
